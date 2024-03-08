@@ -1,6 +1,8 @@
 # EnCase-Agent-Uninstaller-macOS-Catalina
 
-This is a signed, notarized uninstaller PKG file for the EnCase Enterprise/Direct agent installed on macOS 10.15 (Catalina).
+This is a signed, notarized uninstaller PKG file for the EnCase Enterprise/Direct agent installed on macOS 10.15 (Catalina). A version tested for macOS 14 (Sonoma) is to be found in the following repository:
+
+- https://github.com/sdckey/EnCase-Agent-Uninstaller-macOS-Sonoma
 
 Provided that macOS has been instructed to allow apps from the App Store and identified developers (a setting on the Security & Privacy preferences page), the PKG file should open without warning.
 
